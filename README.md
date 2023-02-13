@@ -1,4 +1,5 @@
-# Building-Machine-Learning-Algorithm-From-Scratch
+# Building-Machine-Learning-Algorithm-From-Scratch:
   
   1) Logistic Regression .
+  2) Multivariate Linear Regression .
   
